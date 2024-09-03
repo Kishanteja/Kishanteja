@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kishan teja
-- 👀 I’m interested in AIML
+- 👀 I’m interested in AI
 - 🌱 I’m currently pursuing undergrad at iitb in cse.
 
 <!---
